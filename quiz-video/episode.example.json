@@ -1,0 +1,14 @@
+{
+  "titre": "Quiz Islam : 30 questions pour toute la famille",
+  "questions": [
+    { "categorie": "Les piliers", "q": "Combien y a-t-il de piliers dans l'Islam ?",
+      "choix": ["3", "5", "7"], "bonne": 1,
+      "explication": "L'Islam repose sur 5 piliers." },
+    { "categorie": "Les piliers", "q": "Quel pilier consiste à jeûner pendant le mois de Ramadan ?",
+      "choix": ["La Zakat", "Le Hajj", "Le Siyam"], "bonne": 2,
+      "explication": "Le Siyam, le jeûne du mois de Ramadan, est l'un des 5 piliers de l'Islam." },
+    { "categorie": "Le Coran", "q": "Combien de sourates compte le Coran ?",
+      "choix": ["99", "114", "120"], "bonne": 1,
+      "explication": "Le Coran compte 114 sourates, de la Fatiha à la sourate An-Nas." }
+  ]
+}
